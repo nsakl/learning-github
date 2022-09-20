@@ -20,10 +20,10 @@ For example, the objects in the following images were detected using [mmdetectio
 ### Installation
 
 In a bash terminal, run the following commands (*Do Not actually run these commands in your computer*):
-```sh
-$ Sudo apt update
+```
+ Sudo apt update
 $ conda create -n cv_detection 
-$ conda activate cv_detection
+ conda activate cv_detection
 $ python --version
 $ python example.py
 ```
