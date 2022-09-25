@@ -1,4 +1,4 @@
-#Shell command
+# Shell command
 ###pwd
 - pwd: shows the current path in a hierarchical directory
 ###cd
