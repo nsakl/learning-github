@@ -1,5 +1,5 @@
 # Shell command
-###pwd
+### pwd
 - pwd: shows the current path in a hierarchical directory
 ###cd
 - cd: change directory
