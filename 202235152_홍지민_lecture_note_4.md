@@ -1,9 +1,9 @@
 # Shell command
 ### pwd
 - pwd: shows the current path in a hierarchical directory
-###cd
+### cd
 - cd: change directory
-###ls
+### ls
 - ls: list files and directories
 ### Tip
 1. press "tap" == Autocompletion
