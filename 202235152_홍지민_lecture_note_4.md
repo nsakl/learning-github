@@ -9,7 +9,7 @@
 1. press "tap" == Autocompletion
 2. press "up arrow" == Past commands
 3. press "clear" == clear my shell
-### ccp
+### cp
 - cp: copy files and directories
 ### mv
 - mv: move fiels and directories or rename them
