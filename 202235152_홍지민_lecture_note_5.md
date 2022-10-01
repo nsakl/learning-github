@@ -13,7 +13,7 @@ ex) * ~    echo *, echo~
 ## Tip: Backslash
 - Backslash can be used to ignore line change in command ("enter") to enter a long command in multiple lines
 ## Permissions
-1. Files and directories have a permissions assigned differently to owner / group / others
+1.  Files and directories have a permissions assigned differently to owner / group / others
 2. -rwx/rwx/rwx  3sectors each have different meaning that is owner's read write execute permissions, groups's, others's
 ## Changing Permissions
 - **chomd** 600 some_file
