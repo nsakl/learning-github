@@ -23,8 +23,8 @@
 
 - **.gitignore** 라는 파일을 만든 후 포함하고 싶지 않은 파일명을 적을 시 그 파일은 Staging Area로 올라가지 않는다(Untracked에 조차 표시되지 않는다)
 
-- **git commit -m “commit message”
+- **git commit -m “commit message”**
 
 - **git branch** : 현재 브랜치 이름
 
-- **git branch -m 현재 브랜치 바꿀 브랜치  →브랜치 이름 변경
+- **git branch -m 현재 브랜치 바꿀 브랜치  →브랜치 이름 변경**
